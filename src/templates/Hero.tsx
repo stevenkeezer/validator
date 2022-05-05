@@ -11,7 +11,7 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
+          <Link href="https://github.com/stevenkeezer/validator">
             <a>GitHub</a>
           </Link>
         </li>
@@ -23,7 +23,7 @@ const Hero = () => (
         title={
           <>
             {'Find your bracket issues.\n'}
-            <span className="text-primary-500">Bracket Validator ™</span>
+            <span className="text-primary-500">Bracket Validator™</span>
           </>
         }
         description="Automatically find misused brackets in seconds."
